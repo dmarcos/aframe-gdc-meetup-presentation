@@ -35,6 +35,10 @@
   </div>
 </div>
 
+24 PRs open / 956 PRs closed.
+
+241 issues open / 1228 issues closed.
+
 <!-- NOTES -->
 - Open source and inclusive project
 - Most work done on GitHub
@@ -99,6 +103,16 @@ Curated collection of A-Frame components.
 <!-- .slide: data-background="media/img/metaverse.png" -->
 
 <div class="stretch" data-aframe-scene="scenes/80s.html"></div>
+
+------
+
+# glTF Support
+
+```html
+<a-entity gltf-model="src: model.gltf"></a-entity>
+```
+
+![](/media/img/gltf.png)
 
 ------
 
