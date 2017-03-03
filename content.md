@@ -260,7 +260,7 @@ iStaging
 
 ------
 
-!-- .slide: data-background="media/img/tango.jpg" -->
+<!-- .slide: data-background="media/img/tango.jpg" -->
 
 # *Project Tango to WebVR*
 
